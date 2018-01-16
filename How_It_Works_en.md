@@ -24,6 +24,7 @@ Changes in the patient's state during the course:
 * normalization of blood parameters (ESR, hemoglobin, lymphocytes, white blood cells, etc.);
 * a healthy sleep appears and the psychoemotional condition is normalized;
 * reduction of a tumor, destruction of metastases.
+
 **It should be noted that the innovative wave therapy device can be used in parallel with the traditional medical methods treatment.
 It will allow more effective treatment and, most importantly, effective and quick recovery after drug treatment.**
 ## Description of the OSC-m Device
