@@ -1,5 +1,6 @@
 # Whitepaper
 This document describes the main points of development of the “OSC” project as well as details the sale of Onkostop tokens which will begin on February 01, 2018 at 00:00 EET and will end on April 1, 2018 at 00:00 EET
+
 The “OSC” project collects funds for the official registration of a new innovative method of cancer treatment and introduction of the wave therapy device into practice.
 ## The Problem
 The study of the oncological epidemiological situation in Ukraine showed that the incidence of malignant neoplasms over the last five years increased by 87% (according to the National Cancer Registry of Ukraine).
@@ -44,6 +45,7 @@ The researches will be carried out in cooperation with the structural units of t
 
 Terms of scientific researches — 12 months.
 The required funding is $ 235,000.
+
 2. Technical costs.
 For comprehensive scientific research, an equipment that will give an opportunity to simulate and generate a high-quality signal from the device, to control, quickly and qualitatively adjust the device and the remote emitter is needed.
 Necessary equipment:
@@ -52,12 +54,15 @@ Necessary equipment:
 * Consumables for two devices — $ 8 500.
 
 The total cost will compound $ 28,000.
+
 3. Provision the work of project staff.
 The total number of employees compounds 3 persons.
 Salary for each employee is $ 1,500 per month.
 The total fund of salary for the whole year of work is $ 54,000.
+
 4. Organizational costs. (consumables, additional hardware inspections, unforeseen costs, force majeure events)
 The planned budget for 12 months is $ 43,000.
+
 The total cost of researches for 12 months is $ 360,000.
 ## Onkostop Token
 Onkostop tokens (OSC) are a unit of accounting that is used to represent the digital balance in fundraising for preclinical testing of a wave therapy device.
