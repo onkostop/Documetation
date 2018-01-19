@@ -1,4 +1,4 @@
-# Whitepaper
+# White paper
 This document describes the main points of development of the “OSC” project as well as details the sale of Onkostop tokens which will begin on February 01, 2018 at 00:00 EET and will end on April 1, 2018 at 00:00 EET
 
 The “OSC” project collects funds for the official registration of a new innovative method of cancer treatment and introduction of the wave therapy device into practice.
@@ -8,7 +8,7 @@ Only in 2015 there were 136,225 new cases of malignant neoplasm (MN), and the nu
 An assessment of the status of oncological care showed that with an increase in the level of detection of patients at early stages to 53% and an increase in the coverage of special treatment for patients to 68%, the proportion of patients who did not live one year after diagnosis was still high and reached 30.5%, that is, every third patient dies within the first year.
 It should also be noted that more than a third part of the patients with MN of the digestive organs and a half of the patients with MN of the respiratory organs received no special treatment, thereby, 50% of the patients lived less than a year after the diagnosis was established.
 According to the statistics of the National Cancer Institute, about 1,000,000 patients are currently registered in oncology institutions of Ukraine.
-Each ill person as well as her family and friends after the official diagnosis are faced with the problem of choosing an effective treatment and its high cost.
+Each ill person as well as his family and friends after the official diagnosis are faced with the problem of choosing an effective treatment and its high cost.
 ## The Solution
 We created and developed a new method of therapeutic effect on malignant neoplasms – the wave therapy. “OSC” (from English word oscillator — the generator of oscillating, heterodyne, radiator, vibrator) is a new and innovative project in the field of medicine of a group of Kiev scientists and enthusiasts, graduates of NTUU KPI who, working on a project about renewable energy based on Nikola Tesla's works revealed a number of interesting and specific effects of electromagnetic waves on pathology in the organism.
 During the following years, after having studied the obtained results, we created and developed a portable wave therapy device that allows the local application of electromagnetic fields on the affected parts of the body. Wave therapy, being a new cancer treatment method, was applied to more than 42 patients with oncology illnesses of different stages and species. Among them, in 92% of cases, our new cancer treatment method has yielded positive results: complete tumor regression, significant decrease of MN, destruction of secondary formations (metastasis), tumor growth stopping and stabilizing of the condition. Our wave therapy device is the latest development, which has no analogues.
